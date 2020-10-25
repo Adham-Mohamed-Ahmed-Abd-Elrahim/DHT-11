@@ -1,0 +1,2 @@
+# DHT-11
+DHT 11 +LCD2*16 in C  [AVR]  
